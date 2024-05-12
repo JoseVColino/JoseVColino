@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JoseVColino
-- 👀 I’m interested in ...
+- 👀 I’m interested in GameDev, Data Analysis, Computational Physics and AI
 - 🌱 I’m currently learning 📀C language and Python🐍
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any project of my interest
 - 📫 How to reach me josevictorcolino@gmail.com
 
 <!---
